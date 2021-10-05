@@ -9,6 +9,6 @@ entries:
     name: webapp
     type: application
     urls:
-    - https://charts.jetpack.io/webapp-0.1.0-dev20210922+ee356dc.tgz
+    - https://charts.jetpack.io/charts/webapp-0.1.0-dev20210922+ee356dc.tgz
     version: 0.1.0-dev20210922+ee356dc
 generated: "2021-10-04T16:03:19.323557-07:00"
