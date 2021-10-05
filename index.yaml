@@ -3,12 +3,12 @@ entries:
   webapp:
   - apiVersion: v2
     appVersion: 0.1.0-dev.2021.09.22-ee356dc
-    created: "2021-10-05T14:58:28.251666-07:00"
+    created: "2021-10-05T15:26:30.766023-07:00"
     description: A Helm chart to launch generic web apps for Kubernetes
-    digest: 4077f39dee7a9617ce078b59327839a358155cdbe69a3a61b38a7f4e6e296453
+    digest: 8bb965e3d6cc09ee70f071870c6d557b473663fc419581d763729760f697dfc4
     name: webapp
     type: application
     urls:
-    - https://charts.jetpack.io/webapp-0.1.0-dev20210922+ee356dc.tgz
-    version: 0.1.0-dev20210922+ee356dc
-generated: "2021-10-05T14:58:28.248974-07:00"
+    - https://charts.jetpack.io/webapp-0.1.0-dev20210922.tgz
+    version: 0.1.0-dev20210922
+generated: "2021-10-05T15:26:30.760981-07:00"
