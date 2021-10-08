@@ -3,18 +3,18 @@ entries:
   app:
   - apiVersion: v2
     appVersion: 0.1.0-dev20211006-91f70d8c
-    created: "2021-10-06T23:08:31.861393-07:00"
+    created: "2021-10-08T11:20:53.25193-07:00"
     description: A Helm chart to launch apps for Kubernetes
-    digest: 0a0969eb543fe7c867dd60fbbe6fbabaeee91cbdd29c44cc4f4e78821086bf2f
+    digest: 557d62836bf791f1f0964d5593160dcb6fd187f20fc5511588d3bec2f022dd02
     name: app
     type: application
     urls:
-    - https://charts.jetpack.io/app-0.1.0.tgz
-    version: 0.1.0
+    - https://charts.jetpack.io/app-0.1.1.tgz
+    version: 0.1.1
   jetpack-runtime:
   - apiVersion: v2
     appVersion: 0.1.0-dev20211006-91f70d8c-dirty
-    created: "2021-10-06T23:08:31.862627-07:00"
+    created: "2021-10-08T11:20:53.252369-07:00"
     description: A Helm chart for Kubernetes
     digest: acdde8ee555da94ce392bfb8026557d47c7ca0df97dea2fb0e5002174ee71b1e
     name: jetpack-runtime
@@ -22,4 +22,4 @@ entries:
     urls:
     - https://charts.jetpack.io/jetpack-runtime-0.1.0.tgz
     version: 0.1.0
-generated: "2021-10-06T23:08:31.860663-07:00"
+generated: "2021-10-08T11:20:53.25029-07:00"
